@@ -1,0 +1,7 @@
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\bin\Debug\SpriteRectangleBuilder.exe
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\bin\Debug\SpriteRectangleBuilder.pdb
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\obj\x86\Debug\SpriteRectangleBuilder.Form1.resources
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\obj\x86\Debug\SpriteRectangleBuilder.Properties.Resources.resources
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\obj\x86\Debug\SpriteRectangleBuilder.csproj.GenerateResource.Cache
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\obj\x86\Debug\SpriteRectangleBuilder.exe
+C:\TEMP\SpriteRectangleBuilder\SpriteRectangleBuilder\obj\x86\Debug\SpriteRectangleBuilder.pdb
