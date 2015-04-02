@@ -43,8 +43,7 @@ namespace SpriteRectangleBuilder
         private void Form1_Load(object sender, EventArgs e)
         {
             frameTimer = timer1;
-
-            string workingDirectory = "C:/TEMP/SpriteRectangleBuilder";
+            string workingDirectory = "C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures";
             spritesheets = new List<string>();
             spritesheets.Add(workingDirectory + "/ChurchAreaSpriteSheet.png");
             spritesheets.Add(workingDirectory + "/EnemiesSpriteSheet1.png");
